@@ -29,6 +29,6 @@ My objectives is to find ways to be more effective , this is a list of what i kn
 * Be able to work effectively with a large, multi-location, multi-function team
 
 
-*= Contact me :
-*= Email: hossamtaha771@gmail.com
-*= Mobile: +201208955707 
+- Contact me :
+* Email: hossamtaha771@gmail.com
+* Mobile: +201208955707 
